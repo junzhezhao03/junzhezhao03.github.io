@@ -21,7 +21,7 @@ repository               : "junzhezhao03/junzhezhao03.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "junzhezhao.png"
   name             : "Junzhe Zhao"
   pronouns         : # example: "she/her"  
   bio              : # "M.S. Student in OR at USTC"
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/junzhezhao03"
+  github           : "junzhezhao03"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Junzhe Zhao"
+  linkedin         : "junzhe-zhao-203003343"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
