@@ -37,8 +37,7 @@ author_profile: true
 }
 
 .paper-authors,
-.paper-details,
-.paper-coauthors {
+.paper-details {
   margin-top: 0.25em;
   color: #555;
 }
@@ -77,10 +76,6 @@ author_profile: true
               <div class="paper-authors">{{ post.authors }}</div>
             {% endif %}
 
-            {% if post.coauthors %}
-              <div class="paper-coauthors">with {{ post.coauthors }}</div>
-            {% endif %}
-
             {% if post.details or post.links %}
               <div class="paper-details">
                 {% if post.details %}
@@ -110,4 +105,3 @@ author_profile: true
     </div>
   {% endif %}
 {% endfor %}
-
