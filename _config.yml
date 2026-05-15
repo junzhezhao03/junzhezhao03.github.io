@@ -21,10 +21,10 @@ repository               : "junzhezhao03/junzhezhao03.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "junzhezhao.png"
+  avatar           : "junzhezhao.jpg"
   name             : "Junzhe Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. Student in OR at USTC"
+  bio              : "M.S. Student in OM at USTC"
   location         : "Hefei, Anhui, China"
   employer         : "University of Science and Technology of China"
   uri              : # URL
