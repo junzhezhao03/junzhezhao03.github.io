@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am Junzhe Zhao (赵俊喆), a first-year M.S. student in Operations Research at [The School of Management](https://en.business.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://en.ustc.edu.cn/), where I am fortunate to be advised by [Professor Lindong Liu](https://sites.google.com/view/ldliu/home). Prior to that, I completed my Bachelor of Management in 
-Industrial Engineering at [The School of Business](https://busi.jiangnan.edu.cn/english/index.htm), [Jiangnan University](https://english.jiangnan.edu.cn/).
+I am Junzhe Zhao (赵俊喆), a second-year M.S. student in Operations Management at the School of Management, University of Science and Technology of China. I am fortunate to be advised by [Lindong Liu](https://sites.google.com/view/ldliu/home).
 
-My research interests mainly focus on cooperative games and combinatorial optimization.
+My research interests focuses on sustainable operations.
