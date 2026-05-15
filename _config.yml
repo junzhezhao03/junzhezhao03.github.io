@@ -85,6 +85,14 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+teaching_category:
+  instructor:
+    title: 'Instructor'
+  teaching_assistant:
+    title: 'Teaching Assistant'
+  guest_lectures:
+    title: 'Guest Lectures'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
