@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Certificate Trading in a Supply Chain under Quota Mandate"
 collection: publications
 category: work_in_progress
 permalink: /publication/2009-10-01-paper-title-number-1
