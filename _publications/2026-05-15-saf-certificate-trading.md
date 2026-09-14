@@ -1,5 +1,5 @@
 ---
-title: "Certificate Trading in a Supply Chain under Quota Mandate"
+title: "Certificate Trading in the Aviation Fuel Supply Chain under SAF Mandates"
 collection: publications
 category: work_in_progress
 date: 2026-05-15
