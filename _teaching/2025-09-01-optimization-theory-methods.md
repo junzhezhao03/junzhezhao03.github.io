@@ -1,10 +1,9 @@
 ---
-title: "Optimization Theory and Methods"
-code: "MSAE6002P"
+title: "MSAE6002P Optimization Theory and Methods"
 collection: teaching
 category: teaching_assistant
 date: 2025-09-01
-info: "Master’s course · USTC · Fall 2025"
+info: "Master's course, USTC, Fall 2025"
 details: 
 links:
 notes:
