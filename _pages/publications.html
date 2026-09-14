@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Papers"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,66 +11,17 @@ author_profile: true
 
 {% include base_path %}
 
-<style>
-.paper-section {
-  margin-bottom: 2.2em;
-}
-
-.paper-section h2 {
-  font-size: 1.25em;
-  font-weight: 700;
-  margin-bottom: 0.8em;
-}
-
-.paper-list {
-  padding-left: 1.2em;
-}
-
-.paper-list > li {
-  margin-bottom: 1.4em;
-  line-height: 1.6;
-}
-
-.paper-title {
-  font-weight: 700;
-  color: #222;
-}
-
-.paper-authors,
-.paper-details {
-  margin-top: 0.25em;
-  color: #555;
-}
-
-.paper-details em {
-  font-style: italic;
-}
-
-.paper-links a {
-  margin-left: 0.25em;
-}
-
-.paper-notes {
-  margin-top: 0.45em;
-  margin-bottom: 0;
-}
-
-.paper-notes li {
-  margin-bottom: 0.25em;
-}
-</style>
-
 {% for category in site.publication_category %}
   {% assign papers = site.publications | where: "category", category[0] | reverse %}
 
   {% if papers.size > 0 %}
     <div class="paper-section">
-      <h2>{{ category[1].title }}:</h2>
+      <h2>{{ category[1].title }}</h2>
 
       <ol class="paper-list">
         {% for post in papers %}
           <li>
-            <div class="paper-title">{{ post.title }}</div>
+            <h3 class="paper-title">{{ post.title }}</h3>
 
             {% if post.authors %}
               <div class="paper-authors">{{ post.authors }}</div>

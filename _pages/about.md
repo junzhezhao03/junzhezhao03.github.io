@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,4 +9,4 @@ redirect_from:
 
 I am a first-year Ph.D. student in Operations Management at the School of Management, University of Science and Technology of China, advised by [Lindong Liu](https://sites.google.com/view/ldliu/home).
 
-My research interests focuses on sustainable operations.
+My research focuses on sustainable operations.
