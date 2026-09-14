@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year M.S. student in Operations Management at the School of Management, University of Science and Technology of China, advised by [Lindong Liu](https://sites.google.com/view/ldliu/home).
+I am a first-year Ph.D. student in Operations Management at the School of Management, University of Science and Technology of China, advised by [Lindong Liu](https://sites.google.com/view/ldliu/home).
 
 My research interests focuses on sustainable operations.
