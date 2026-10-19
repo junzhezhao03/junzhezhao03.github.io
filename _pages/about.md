@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "About me"
+seo_title: "Junzhe Zhao (赵俊喆) | Operations Management, USTC"
+description: "Junzhe Zhao is a Ph.D. student in Operations Management at the University of Science and Technology of China (USTC), researching sustainable operations and cooperative game theory."
 author_profile: true
 redirect_from: 
   - /about/
