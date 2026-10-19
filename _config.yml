@@ -167,6 +167,29 @@ include:
   - _pages
   - files
 exclude:
+  # Unused template examples; keep the source files for future reference.
+  - _posts
+  - _portfolio
+  - _talks
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/year-archive.html
+  - markdown_generator
+  - talkmap
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/slides1.pdf
+  - files/slides2.pdf
+  - files/slides3.pdf
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
